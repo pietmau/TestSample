@@ -1,5 +1,0 @@
-0000000000000000000000000000000000000000 3d3e5d7bc84cd862e087485af7b5f7079108d125 Maurizio Pietrantuono <maurizio.pietrantuono@gmail.com> 1452425258 +0100	branch: Created from master
-3d3e5d7bc84cd862e087485af7b5f7079108d125 2cdd3aa762b7bde6884035e3fc3cc0abd6a31f2e Maurizio Pietrantuono <maurizio.pietrantuono@gmail.com> 1452425714 +0100	merge log_all: Fast-forward (no commit created; -m option ignored)
-2cdd3aa762b7bde6884035e3fc3cc0abd6a31f2e 733e429aff87a184fed07501695756e67cc490e2 Maurizio Pietrantuono <maurizio.pietrantuono@gmail.com> 1452426975 +0100	commit: Commit
-733e429aff87a184fed07501695756e67cc490e2 5c1ef816ea945acfb82b37039834c0efaf5fe418 Maurizio Pietrantuono <maurizio.pietrantuono@gmail.com> 1452427106 +0100	commit: Commit
-5c1ef816ea945acfb82b37039834c0efaf5fe418 f4c11d5fc27b360018988979b1460c6fe3bd8e3f Maurizio Pietrantuono <maurizio.pietrantuono@gmail.com> 1452427816 +0100	commit: Added support for foreign key
